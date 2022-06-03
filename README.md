@@ -1,11 +1,12 @@
----
+# Generador QRCode OnLine - LR (2022)
+QRCode.js is javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.
+QRCode.js has no dependencies.
 
-Espacio exclusivo de versiones flip de nuestras publicaciones.
+## Browser Compatibility
+IE6~10, Chrome, Firefox, Safari, Opera, Mobile Safari, Android, Windows Mobile, ETC.
 
-Más información en https://www.la-razon.com
+## Licencia
+MIT License
 
----
-
-## Paper new
-
-La Paz, junio de 2022
+## Contacto
+twitter @la_razon
